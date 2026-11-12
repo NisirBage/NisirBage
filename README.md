@@ -1,4 +1,4 @@
-Nisir Sanang Bage
+
 B.Tech student in Artificial Intelligence & Machine Learning at BIT Mesra. I build ML systems and try to evaluate them properly: strong baselines, leakage checks, reproducible runs, and written-down limitations. I'm working toward research engineering at the intersection of machine learning, NLP and computational biology.
 
 Interests: machine learning and its foundations · NLP and information retrieval · computational biology and bioinformatics · scientific ML · algorithms · ML infrastructure.
